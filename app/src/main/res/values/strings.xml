@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">附近</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_choose">ChooseActivity</string>
+    <string name="choose">选择你想去的地方</string>
+    <string name="bus">公交站</string>
+    <string name="stop">停止导航</string>
+    <string name="rightnow">点击图标开启导航</string>
+    <string name="title_activity_culmen">CulmenActivity</string>
+    <string name="eat">美食餐饮</string>
+    <string name="buy">购物广场</string>
+    <string name="hotal">宾馆酒店</string>
+    <string name="movie">影剧院</string>
+    <string name="sport">运动场馆</string>
+    <string name="hospita">医院</string>
+    <string name="park">停车场</string>
+    <string name="gongce">公厕</string>
+    <string name="fun">娱乐场所</string>
+    <string name="atm">取款机</string>
+    <string name="bank">银行</string>
+    <string name="book">科教文化</string>
+    <string name="fengjing">风景名胜</string>
+    <string name="zhengfu">政府机构</string>
+    <string name="buss">公交车站</string>
+    <string name="more">敬请期待后续更多功能推出!</string>
+    <string name="about">关于附近</string>
+    <string name="app_id">输入您讯飞的appid</string>
+    <string name="preference_default_tts_role">xiaoyan</string>
+    <string name="preference_key_tts_speed">tts_speed</string>
+    <string name="preference_key_tts_volume">tts_volume</string>
+    <string name="preference_key_tts_pitch">tts_pitch</string>
+    <string name="navi_start">"起    点"</string>
+    <string name="navi_end">"终    点"</string>
+    <string name="start_navi_navi">实时导航</string>
+    <string name="title_activity_about">AboutActivity</string>
+
+</resources>
