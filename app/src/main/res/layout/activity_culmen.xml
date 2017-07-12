@@ -1,19 +1,17 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:orientation="vertical"
-    tools:context="${relativePackage}.${activityClass}" >
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
      
    <RelativeLayout
 		android:layout_width="match_parent"
 		android:layout_height="40dp"
-		android:orientation="horizontal"
-		android:background="#21B8C6">
+	   android:background="#21B8C6"
+	   android:orientation="horizontal">
 		
 		<TextView
-		    android:layout_height="wrap_content"
-	        android:layout_width="wrap_content"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
 	        android:layout_centerInParent="true"
 	        android:text="@string/app_name"
 	        android:textSize="22sp" />
@@ -292,8 +290,8 @@
 		    <RelativeLayout
 				android:layout_width="fill_parent"
 				android:layout_height="20dp"
-				android:orientation="horizontal"
-				android:layout_marginTop="40dp">
+				android:layout_marginTop="40dp"
+				android:orientation="horizontal">
 			    <TextView
 			       android:layout_width="fill_parent"
 			       android:layout_height="20dp"
@@ -304,9 +302,9 @@
 		    <RelativeLayout
 				android:layout_width="fill_parent"
 				android:layout_height="20dp"
-				android:orientation="horizontal"
+				android:layout_marginBottom="40dp"
 				android:layout_marginTop="40dp"
-				android:layout_marginBottom="40dp">
+				android:orientation="horizontal">
 			    <TextView
 			        android:id="@+id/aboutus"
 			        android:layout_width="fill_parent"
