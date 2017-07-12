@@ -168,8 +168,8 @@ public class CulmenActivity extends Activity {
 			public void onClick(View arg0) {
 				Intent intent=new Intent(CulmenActivity.this,MainActivity.class);
 				//将类目传递给mainactivity
-				intent.putExtra("Cloum","政府机关");  
-				startActivityForResult(intent,0);
+                intent.putExtra("Cloum", "政府机构及社会团体");
+                startActivityForResult(intent,0);
 			}
 		});
         bus.setOnClickListener(new OnClickListener() {
